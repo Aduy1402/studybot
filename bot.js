@@ -702,4 +702,12 @@ app.listen(3000, () => {
   console.log('Web server running');
 });
 
+process.on('unhandledRejection', error => {
+  console.error('Unhandled promise rejection:', error);
+});
+
+process.on('uncaughtException', error => {
+  console.error('Uncaught exception:', error);
+});
+
 client.login(TOKEN);
