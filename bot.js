@@ -252,7 +252,7 @@ client.on('messageCreate', async (message) => {
     quizCorrect: 0,
     lastStudyDate: null
   };
-}
+
 
     saveData();
   }
