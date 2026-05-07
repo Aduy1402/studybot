@@ -242,18 +242,17 @@ client.on('messageCreate', async (message) => {
 
   // CREATE USER
   if (!data[userId]) {
-
-    data[userId] = {
-
-      studied: false,
-      score: 0,
-      streak: 0,
-      studyCount: 0,
-      savedWords: [],
-      lastStudyDate: null,
-      freeze: 0,
-      quizCorrect: 0
-    };
+  data[userId] = {
+    studied: false,
+    score: 0,
+    streak: 0,
+    studyCount: 0,
+    savedWords: [],
+    freeze: 0,
+    quizCorrect: 0,
+    lastStudyDate: null
+  };
+}
 
     saveData();
   }
