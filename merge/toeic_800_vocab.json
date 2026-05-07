@@ -1,0 +1,849 @@
+[
+  {
+    "word": "accept",
+    "meaning": "chấp nhận",
+    "example": "They received the accept yesterday.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "access",
+    "meaning": "truy cập",
+    "example": "Our team handled the access successfully.",
+    "topic": "technology",
+    "level": "easy"
+  },
+  {
+    "word": "account",
+    "meaning": "tài khoản",
+    "example": "She discussed the account during the meeting.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "advertisement",
+    "meaning": "quảng cáo",
+    "example": "They discussed the advertisement during the meeting.",
+    "topic": "marketing",
+    "level": "medium"
+  },
+  {
+    "word": "agreement",
+    "meaning": "thỏa thuận",
+    "example": "Our team handled the agreement successfully.",
+    "topic": "business",
+    "level": "easy"
+  },
+  {
+    "word": "airport",
+    "meaning": "sân bay",
+    "example": "The manager reviewed the airport carefully.",
+    "topic": "travel",
+    "level": "medium"
+  },
+  {
+    "word": "announcement",
+    "meaning": "thông báo",
+    "example": "Our team handled the announcement successfully.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "application",
+    "meaning": "đơn ứng tuyển",
+    "example": "The manager reviewed the application carefully.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "appointment",
+    "meaning": "cuộc hẹn",
+    "example": "Our team handled the appointment successfully.",
+    "topic": "office",
+    "level": "medium"
+  },
+  {
+    "word": "approve",
+    "meaning": "phê duyệt",
+    "example": "The company will approve the new policy next week.",
+    "topic": "business",
+    "level": "easy"
+  },
+  {
+    "word": "arrival",
+    "meaning": "sự đến",
+    "example": "Our team handled the arrival successfully.",
+    "topic": "travel",
+    "level": "easy"
+  },
+  {
+    "word": "assist",
+    "meaning": "hỗ trợ",
+    "example": "The company will assist the new policy next week.",
+    "topic": "customer_service",
+    "level": "easy"
+  },
+  {
+    "word": "audience",
+    "meaning": "khán giả",
+    "example": "They discussed the audience during the meeting.",
+    "topic": "marketing",
+    "level": "medium"
+  },
+  {
+    "word": "backup",
+    "meaning": "sao lưu",
+    "example": "The manager reviewed the backup carefully.",
+    "topic": "technology",
+    "level": "medium"
+  },
+  {
+    "word": "baggage",
+    "meaning": "hành lý",
+    "example": "They received the baggage yesterday.",
+    "topic": "travel",
+    "level": "medium"
+  },
+  {
+    "word": "balance",
+    "meaning": "số dư",
+    "example": "The company will balance the new policy next week.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "bankruptcy",
+    "meaning": "phá sản",
+    "example": "They received the bankruptcy yesterday.",
+    "topic": "finance",
+    "level": "easy"
+  },
+  {
+    "word": "bill",
+    "meaning": "hóa đơn",
+    "example": "She discussed the bill during the meeting.",
+    "topic": "finance",
+    "level": "easy"
+  },
+  {
+    "word": "boarding",
+    "meaning": "lên máy bay",
+    "example": "They received the boarding yesterday.",
+    "topic": "travel",
+    "level": "medium"
+  },
+  {
+    "word": "branch",
+    "meaning": "chi nhánh",
+    "example": "They discussed the branch during the meeting.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "budget",
+    "meaning": "ngân sách",
+    "example": "She discussed the budget during the meeting.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "candidate",
+    "meaning": "ứng viên",
+    "example": "The company will candidate the new policy next week.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "cargo",
+    "meaning": "hàng hóa",
+    "example": "The manager reviewed the cargo carefully.",
+    "topic": "shipping",
+    "level": "easy"
+  },
+  {
+    "word": "cash",
+    "meaning": "tiền mặt",
+    "example": "Our team handled the cash successfully.",
+    "topic": "finance",
+    "level": "easy"
+  },
+  {
+    "word": "certificate",
+    "meaning": "chứng chỉ",
+    "example": "They discussed the certificate during the meeting.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "complaint",
+    "meaning": "khiếu nại",
+    "example": "She discussed the complaint during the meeting.",
+    "topic": "customer_service",
+    "level": "easy"
+  },
+  {
+    "word": "conference",
+    "meaning": "hội nghị",
+    "example": "The manager reviewed the conference carefully.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "consumer",
+    "meaning": "người tiêu dùng",
+    "example": "They received the consumer yesterday.",
+    "topic": "customer_service",
+    "level": "medium"
+  },
+  {
+    "word": "contract",
+    "meaning": "hợp đồng",
+    "example": "The manager reviewed the contract carefully.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "cost",
+    "meaning": "chi phí",
+    "example": "Our team handled the cost successfully.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "credit",
+    "meaning": "tín dụng",
+    "example": "The manager reviewed the credit carefully.",
+    "topic": "finance",
+    "level": "easy"
+  },
+  {
+    "word": "currency",
+    "meaning": "tiền tệ",
+    "example": "They received the currency yesterday.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "database",
+    "meaning": "cơ sở dữ liệu",
+    "example": "She discussed the database during the meeting.",
+    "topic": "technology",
+    "level": "medium"
+  },
+  {
+    "word": "deadline",
+    "meaning": "hạn chót",
+    "example": "The company will deadline the new policy next week.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "debt",
+    "meaning": "nợ",
+    "example": "They received the debt yesterday.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "delay",
+    "meaning": "trì hoãn",
+    "example": "The company will delay the new policy next week.",
+    "topic": "shipping",
+    "level": "medium"
+  },
+  {
+    "word": "delivery",
+    "meaning": "giao hàng",
+    "example": "Our team handled the delivery successfully.",
+    "topic": "shipping",
+    "level": "easy"
+  },
+  {
+    "word": "department",
+    "meaning": "phòng ban",
+    "example": "They received the department yesterday.",
+    "topic": "business",
+    "level": "easy"
+  },
+  {
+    "word": "departure",
+    "meaning": "khởi hành",
+    "example": "The company will departure the new policy next week.",
+    "topic": "travel",
+    "level": "medium"
+  },
+  {
+    "word": "deposit",
+    "meaning": "tiền gửi",
+    "example": "The company will deposit the new policy next week.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "destination",
+    "meaning": "điểm đến",
+    "example": "The manager reviewed the destination carefully.",
+    "topic": "travel",
+    "level": "medium"
+  },
+  {
+    "word": "device",
+    "meaning": "thiết bị",
+    "example": "She discussed the device during the meeting.",
+    "topic": "technology",
+    "level": "medium"
+  },
+  {
+    "word": "discount",
+    "meaning": "giảm giá",
+    "example": "The company will discount the new policy next week.",
+    "topic": "finance",
+    "level": "easy"
+  },
+  {
+    "word": "dispatch",
+    "meaning": "gửi đi",
+    "example": "The manager reviewed the dispatch carefully.",
+    "topic": "shipping",
+    "level": "easy"
+  },
+  {
+    "word": "document",
+    "meaning": "tài liệu",
+    "example": "They received the document yesterday.",
+    "topic": "office",
+    "level": "medium"
+  },
+  {
+    "word": "download",
+    "meaning": "tải xuống",
+    "example": "She discussed the download during the meeting.",
+    "topic": "technology",
+    "level": "medium"
+  },
+  {
+    "word": "efficient",
+    "meaning": "hiệu quả",
+    "example": "They discussed the efficient during the meeting.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "employee",
+    "meaning": "nhân viên",
+    "example": "They received the employee yesterday.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "employer",
+    "meaning": "nhà tuyển dụng",
+    "example": "The manager reviewed the employer carefully.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "equipment",
+    "meaning": "thiết bị",
+    "example": "The manager reviewed the equipment carefully.",
+    "topic": "office",
+    "level": "medium"
+  },
+  {
+    "word": "estimate",
+    "meaning": "ước tính",
+    "example": "They discussed the estimate during the meeting.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "expense",
+    "meaning": "chi tiêu",
+    "example": "She discussed the expense during the meeting.",
+    "topic": "finance",
+    "level": "easy"
+  },
+  {
+    "word": "facility",
+    "meaning": "cơ sở vật chất",
+    "example": "The company will facility the new policy next week.",
+    "topic": "office",
+    "level": "medium"
+  },
+  {
+    "word": "factory",
+    "meaning": "nhà máy",
+    "example": "They discussed the factory during the meeting.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "feedback",
+    "meaning": "phản hồi",
+    "example": "They received the feedback yesterday.",
+    "topic": "customer_service",
+    "level": "medium"
+  },
+  {
+    "word": "file",
+    "meaning": "tệp tin",
+    "example": "The company will file the new policy next week.",
+    "topic": "office",
+    "level": "easy"
+  },
+  {
+    "word": "flight",
+    "meaning": "chuyến bay",
+    "example": "She discussed the flight during the meeting.",
+    "topic": "travel",
+    "level": "easy"
+  },
+  {
+    "word": "form",
+    "meaning": "biểu mẫu",
+    "example": "The manager reviewed the form carefully.",
+    "topic": "office",
+    "level": "medium"
+  },
+  {
+    "word": "freight",
+    "meaning": "vận chuyển hàng hóa",
+    "example": "She discussed the freight during the meeting.",
+    "topic": "shipping",
+    "level": "medium"
+  },
+  {
+    "word": "fund",
+    "meaning": "quỹ",
+    "example": "Our team handled the fund successfully.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "bảo đảm",
+    "example": "The manager reviewed the guarantee carefully.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "income",
+    "meaning": "thu nhập",
+    "example": "The company will income the new policy next week.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "inquiry",
+    "meaning": "thắc mắc",
+    "example": "The manager reviewed the inquiry carefully.",
+    "topic": "customer_service",
+    "level": "easy"
+  },
+  {
+    "word": "insurance",
+    "meaning": "bảo hiểm",
+    "example": "They discussed the insurance during the meeting.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "interest",
+    "meaning": "lãi suất",
+    "example": "The company will interest the new policy next week.",
+    "topic": "finance",
+    "level": "easy"
+  },
+  {
+    "word": "interview",
+    "meaning": "phỏng vấn",
+    "example": "The company will interview the new policy next week.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "investment",
+    "meaning": "đầu tư",
+    "example": "They received the investment yesterday.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "invoice",
+    "meaning": "hóa đơn",
+    "example": "Our team handled the invoice successfully.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "itinerary",
+    "meaning": "lịch trình",
+    "example": "They received the itinerary yesterday.",
+    "topic": "travel",
+    "level": "medium"
+  },
+  {
+    "word": "journey",
+    "meaning": "hành trình",
+    "example": "They received the journey yesterday.",
+    "topic": "travel",
+    "level": "easy"
+  },
+  {
+    "word": "loan",
+    "meaning": "khoản vay",
+    "example": "She discussed the loan during the meeting.",
+    "topic": "finance",
+    "level": "easy"
+  },
+  {
+    "word": "logistics",
+    "meaning": "hậu cần",
+    "example": "The manager reviewed the logistics carefully.",
+    "topic": "shipping",
+    "level": "easy"
+  },
+  {
+    "word": "maintenance",
+    "meaning": "bảo trì",
+    "example": "The company will maintenance the new policy next week.",
+    "topic": "office",
+    "level": "easy"
+  },
+  {
+    "word": "manager",
+    "meaning": "quản lý",
+    "example": "She discussed the manager during the meeting.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "manufacturer",
+    "meaning": "nhà sản xuất",
+    "example": "They discussed the manufacturer during the meeting.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "meeting",
+    "meaning": "cuộc họp",
+    "example": "Our team handled the meeting successfully.",
+    "topic": "business",
+    "level": "easy"
+  },
+  {
+    "word": "merchandise",
+    "meaning": "hàng hóa",
+    "example": "They discussed the merchandise during the meeting.",
+    "topic": "shopping",
+    "level": "medium"
+  },
+  {
+    "word": "negotiate",
+    "meaning": "đàm phán",
+    "example": "The company will negotiate the new policy next week.",
+    "topic": "business",
+    "level": "easy"
+  },
+  {
+    "word": "network",
+    "meaning": "mạng",
+    "example": "She discussed the network during the meeting.",
+    "topic": "technology",
+    "level": "medium"
+  },
+  {
+    "word": "occupation",
+    "meaning": "nghề nghiệp",
+    "example": "The company will occupation the new policy next week.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "package",
+    "meaning": "gói hàng",
+    "example": "Our team handled the package successfully.",
+    "topic": "shipping",
+    "level": "medium"
+  },
+  {
+    "word": "passport",
+    "meaning": "hộ chiếu",
+    "example": "They received the passport yesterday.",
+    "topic": "travel",
+    "level": "easy"
+  },
+  {
+    "word": "password",
+    "meaning": "mật khẩu",
+    "example": "Our team handled the password successfully.",
+    "topic": "technology",
+    "level": "easy"
+  },
+  {
+    "word": "postpone",
+    "meaning": "hoãn lại",
+    "example": "They discussed the postpone during the meeting.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "printer",
+    "meaning": "máy in",
+    "example": "The company will printer the new policy next week.",
+    "topic": "office",
+    "level": "easy"
+  },
+  {
+    "word": "profit",
+    "meaning": "lợi nhuận",
+    "example": "The company will profit the new policy next week.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "promotion",
+    "meaning": "thăng chức",
+    "example": "The manager reviewed the promotion carefully.",
+    "topic": "business",
+    "level": "easy"
+  },
+  {
+    "word": "proposal",
+    "meaning": "đề xuất",
+    "example": "The manager reviewed the proposal carefully.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "purchase",
+    "meaning": "mua hàng",
+    "example": "They received the purchase yesterday.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "receipt",
+    "meaning": "biên lai",
+    "example": "They discussed the receipt during the meeting.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "refund",
+    "meaning": "hoàn tiền",
+    "example": "Our team handled the refund successfully.",
+    "topic": "business",
+    "level": "easy"
+  },
+  {
+    "word": "register",
+    "meaning": "đăng ký",
+    "example": "She discussed the register during the meeting.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "renovation",
+    "meaning": "sửa chữa",
+    "example": "They discussed the renovation during the meeting.",
+    "topic": "office",
+    "level": "medium"
+  },
+  {
+    "word": "report",
+    "meaning": "báo cáo",
+    "example": "She discussed the report during the meeting.",
+    "topic": "office",
+    "level": "easy"
+  },
+  {
+    "word": "representative",
+    "meaning": "đại diện",
+    "example": "She discussed the representative during the meeting.",
+    "topic": "customer_service",
+    "level": "medium"
+  },
+  {
+    "word": "reservation",
+    "meaning": "đặt chỗ",
+    "example": "The company will reservation the new policy next week.",
+    "topic": "travel",
+    "level": "easy"
+  },
+  {
+    "word": "respond",
+    "meaning": "phản hồi",
+    "example": "The company will respond the new policy next week.",
+    "topic": "customer_service",
+    "level": "easy"
+  },
+  {
+    "word": "retailer",
+    "meaning": "nhà bán lẻ",
+    "example": "They discussed the retailer during the meeting.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "revenue",
+    "meaning": "doanh thu",
+    "example": "The company will revenue the new policy next week.",
+    "topic": "finance",
+    "level": "easy"
+  },
+  {
+    "word": "salary",
+    "meaning": "lương",
+    "example": "The manager reviewed the salary carefully.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "satisfaction",
+    "meaning": "sự hài lòng",
+    "example": "The company will satisfaction the new policy next week.",
+    "topic": "customer_service",
+    "level": "easy"
+  },
+  {
+    "word": "schedule",
+    "meaning": "lịch trình",
+    "example": "The manager reviewed the schedule carefully.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "service",
+    "meaning": "dịch vụ",
+    "example": "Our team handled the service successfully.",
+    "topic": "customer_service",
+    "level": "easy"
+  },
+  {
+    "word": "shipment",
+    "meaning": "lô hàng",
+    "example": "Our team handled the shipment successfully.",
+    "topic": "shipping",
+    "level": "medium"
+  },
+  {
+    "word": "software",
+    "meaning": "phần mềm",
+    "example": "The company will software the new policy next week.",
+    "topic": "technology",
+    "level": "medium"
+  },
+  {
+    "word": "stationery",
+    "meaning": "văn phòng phẩm",
+    "example": "Our team handled the stationery successfully.",
+    "topic": "office",
+    "level": "easy"
+  },
+  {
+    "word": "supervisor",
+    "meaning": "giám sát",
+    "example": "They received the supervisor yesterday.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "supplier",
+    "meaning": "nhà cung cấp",
+    "example": "They discussed the supplier during the meeting.",
+    "topic": "shipping",
+    "level": "medium"
+  },
+  {
+    "word": "tax",
+    "meaning": "thuế",
+    "example": "Our team handled the tax successfully.",
+    "topic": "finance",
+    "level": "medium"
+  },
+  {
+    "word": "temporary",
+    "meaning": "tạm thời",
+    "example": "They discussed the temporary during the meeting.",
+    "topic": "business",
+    "level": "medium"
+  },
+  {
+    "word": "ticket",
+    "meaning": "vé",
+    "example": "Our team handled the ticket successfully.",
+    "topic": "travel",
+    "level": "easy"
+  },
+  {
+    "word": "tour",
+    "meaning": "chuyến du lịch",
+    "example": "The manager reviewed the tour carefully.",
+    "topic": "travel",
+    "level": "medium"
+  },
+  {
+    "word": "training",
+    "meaning": "đào tạo",
+    "example": "She discussed the training during the meeting.",
+    "topic": "business",
+    "level": "easy"
+  },
+  {
+    "word": "transportation",
+    "meaning": "phương tiện di chuyển",
+    "example": "They received the transportation yesterday.",
+    "topic": "travel",
+    "level": "medium"
+  },
+  {
+    "word": "update",
+    "meaning": "cập nhật",
+    "example": "The manager reviewed the update carefully.",
+    "topic": "technology",
+    "level": "medium"
+  },
+  {
+    "word": "upload",
+    "meaning": "tải lên",
+    "example": "The company will upload the new policy next week.",
+    "topic": "technology",
+    "level": "easy"
+  },
+  {
+    "word": "vacancy",
+    "meaning": "vị trí trống",
+    "example": "They received the vacancy yesterday.",
+    "topic": "business",
+    "level": "easy"
+  },
+  {
+    "word": "vacation",
+    "meaning": "kỳ nghỉ",
+    "example": "They discussed the vacation during the meeting.",
+    "topic": "travel",
+    "level": "medium"
+  },
+  {
+    "word": "visitor",
+    "meaning": "khách tham quan",
+    "example": "They discussed the visitor during the meeting.",
+    "topic": "travel",
+    "level": "medium"
+  },
+  {
+    "word": "warehouse",
+    "meaning": "nhà kho",
+    "example": "The company will warehouse the new policy next week.",
+    "topic": "shipping",
+    "level": "medium"
+  },
+  {
+    "word": "website",
+    "meaning": "trang web",
+    "example": "The company will website the new policy next week.",
+    "topic": "technology",
+    "level": "easy"
+  }
+]

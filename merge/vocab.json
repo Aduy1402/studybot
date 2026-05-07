@@ -1,0 +1,753 @@
+
+[
+  {
+    "word": "abandon",
+    "meaning": "từ bỏ",
+    "example": "He abandoned the project.",
+    "topic": "general"
+  },
+  {
+    "word": "ability",
+    "meaning": "khả năng",
+    "example": "She has great ability in management.",
+    "topic": "general"
+  },
+  {
+    "word": "accept",
+    "meaning": "chấp nhận",
+    "example": "They accepted the offer.",
+    "topic": "business"
+  },
+  {
+    "word": "access",
+    "meaning": "truy cập",
+    "example": "Employees can access the system.",
+    "topic": "technology"
+  },
+  {
+    "word": "account",
+    "meaning": "tài khoản",
+    "example": "Please check your account.",
+    "topic": "business"
+  },
+  {
+    "word": "achieve",
+    "meaning": "đạt được",
+    "example": "He achieved his goal.",
+    "topic": "general"
+  },
+  {
+    "word": "acquire",
+    "meaning": "đạt được, mua lại",
+    "example": "The company acquired new equipment.",
+    "topic": "business"
+  },
+  {
+    "word": "action",
+    "meaning": "hành động",
+    "example": "Immediate action is necessary.",
+    "topic": "general"
+  },
+  {
+    "word": "active",
+    "meaning": "năng động",
+    "example": "She is an active member.",
+    "topic": "general"
+  },
+  {
+    "word": "activity",
+    "meaning": "hoạt động",
+    "example": "Outdoor activities are popular.",
+    "topic": "general"
+  },
+  {
+    "word": "advertise",
+    "meaning": "quảng cáo",
+    "example": "They advertised the new product.",
+    "topic": "marketing"
+  },
+  {
+    "word": "advertisement",
+    "meaning": "quảng cáo",
+    "example": "I saw the advertisement online.",
+    "topic": "marketing"
+  },
+  {
+    "word": "afford",
+    "meaning": "có khả năng chi trả",
+    "example": "We cannot afford the price.",
+    "topic": "finance"
+  },
+  {
+    "word": "agenda",
+    "meaning": "chương trình họp",
+    "example": "The agenda was sent yesterday.",
+    "topic": "office"
+  },
+  {
+    "word": "agreement",
+    "meaning": "thỏa thuận",
+    "example": "They signed the agreement.",
+    "topic": "business"
+  },
+  {
+    "word": "allow",
+    "meaning": "cho phép",
+    "example": "The manager allowed overtime.",
+    "topic": "office"
+  },
+  {
+    "word": "annual",
+    "meaning": "hàng năm",
+    "example": "The annual meeting starts tomorrow.",
+    "topic": "business"
+  },
+  {
+    "word": "appointment",
+    "meaning": "cuộc hẹn",
+    "example": "I have a doctor's appointment.",
+    "topic": "general"
+  },
+  {
+    "word": "approve",
+    "meaning": "phê duyệt",
+    "example": "The boss approved the budget.",
+    "topic": "office"
+  },
+  {
+    "word": "arrange",
+    "meaning": "sắp xếp",
+    "example": "She arranged the schedule.",
+    "topic": "office"
+  },
+  {
+    "word": "article",
+    "meaning": "bài báo",
+    "example": "He wrote an article.",
+    "topic": "media"
+  },
+  {
+    "word": "assist",
+    "meaning": "hỗ trợ",
+    "example": "Can you assist me?",
+    "topic": "office"
+  },
+  {
+    "word": "attach",
+    "meaning": "đính kèm",
+    "example": "Please attach the file.",
+    "topic": "technology"
+  },
+  {
+    "word": "attendance",
+    "meaning": "sự tham dự",
+    "example": "Attendance increased this year.",
+    "topic": "general"
+  },
+  {
+    "word": "available",
+    "meaning": "có sẵn",
+    "example": "The product is available now.",
+    "topic": "business"
+  },
+  {
+    "word": "balance",
+    "meaning": "số dư",
+    "example": "Your balance is low.",
+    "topic": "finance"
+  },
+  {
+    "word": "benefit",
+    "meaning": "lợi ích",
+    "example": "Employees receive many benefits.",
+    "topic": "business"
+  },
+  {
+    "word": "board",
+    "meaning": "ban quản trị",
+    "example": "The board approved the plan.",
+    "topic": "business"
+  },
+  {
+    "word": "budget",
+    "meaning": "ngân sách",
+    "example": "We need a larger budget.",
+    "topic": "finance"
+  },
+  {
+    "word": "cancel",
+    "meaning": "hủy bỏ",
+    "example": "The flight was canceled.",
+    "topic": "travel"
+  },
+  {
+    "word": "candidate",
+    "meaning": "ứng viên",
+    "example": "The candidate was interviewed.",
+    "topic": "office"
+  },
+  {
+    "word": "career",
+    "meaning": "sự nghiệp",
+    "example": "She wants a successful career.",
+    "topic": "general"
+  },
+  {
+    "word": "category",
+    "meaning": "danh mục",
+    "example": "Choose the correct category.",
+    "topic": "general"
+  },
+  {
+    "word": "celebrate",
+    "meaning": "ăn mừng",
+    "example": "They celebrated the achievement.",
+    "topic": "general"
+  },
+  {
+    "word": "client",
+    "meaning": "khách hàng",
+    "example": "The client requested changes.",
+    "topic": "business"
+  },
+  {
+    "word": "colleague",
+    "meaning": "đồng nghiệp",
+    "example": "My colleagues are friendly.",
+    "topic": "office"
+  },
+  {
+    "word": "committee",
+    "meaning": "ủy ban",
+    "example": "The committee meets monthly.",
+    "topic": "business"
+  },
+  {
+    "word": "communicate",
+    "meaning": "giao tiếp",
+    "example": "Employees communicate online.",
+    "topic": "office"
+  },
+  {
+    "word": "competition",
+    "meaning": "cuộc thi, cạnh tranh",
+    "example": "Competition is increasing.",
+    "topic": "business"
+  },
+  {
+    "word": "complaint",
+    "meaning": "lời phàn nàn",
+    "example": "The customer made a complaint.",
+    "topic": "customer_service"
+  },
+  {
+    "word": "conference",
+    "meaning": "hội nghị",
+    "example": "The conference begins tomorrow.",
+    "topic": "business"
+  },
+  {
+    "word": "confirm",
+    "meaning": "xác nhận",
+    "example": "Please confirm your booking.",
+    "topic": "travel"
+  },
+  {
+    "word": "contract",
+    "meaning": "hợp đồng",
+    "example": "They signed the contract.",
+    "topic": "business"
+  },
+  {
+    "word": "convenient",
+    "meaning": "thuận tiện",
+    "example": "The location is convenient.",
+    "topic": "general"
+  },
+  {
+    "word": "customer",
+    "meaning": "khách hàng",
+    "example": "Customers are satisfied.",
+    "topic": "customer_service"
+  },
+  {
+    "word": "deadline",
+    "meaning": "hạn chót",
+    "example": "The deadline is Friday.",
+    "topic": "office"
+  },
+  {
+    "word": "decrease",
+    "meaning": "giảm xuống",
+    "example": "Sales decreased last month.",
+    "topic": "finance"
+  },
+  {
+    "word": "delivery",
+    "meaning": "giao hàng",
+    "example": "The delivery arrived late.",
+    "topic": "business"
+  },
+  {
+    "word": "department",
+    "meaning": "phòng ban",
+    "example": "She works in marketing department.",
+    "topic": "office"
+  },
+  {
+    "word": "design",
+    "meaning": "thiết kế",
+    "example": "The design looks modern.",
+    "topic": "technology"
+  },
+  {
+    "word": "develop",
+    "meaning": "phát triển",
+    "example": "They developed new software.",
+    "topic": "technology"
+  },
+  {
+    "word": "discount",
+    "meaning": "giảm giá",
+    "example": "The store offers discounts.",
+    "topic": "shopping"
+  },
+  {
+    "word": "document",
+    "meaning": "tài liệu",
+    "example": "Please submit the document.",
+    "topic": "office"
+  },
+  {
+    "word": "efficient",
+    "meaning": "hiệu quả",
+    "example": "The new system is efficient.",
+    "topic": "office"
+  },
+  {
+    "word": "employee",
+    "meaning": "nhân viên",
+    "example": "Employees must wear badges.",
+    "topic": "office"
+  },
+  {
+    "word": "equipment",
+    "meaning": "thiết bị",
+    "example": "The equipment is expensive.",
+    "topic": "technology"
+  },
+  {
+    "word": "estimate",
+    "meaning": "ước tính",
+    "example": "We estimated the cost.",
+    "topic": "finance"
+  },
+  {
+    "word": "event",
+    "meaning": "sự kiện",
+    "example": "The event attracted many visitors.",
+    "topic": "general"
+  },
+  {
+    "word": "exchange",
+    "meaning": "trao đổi",
+    "example": "They exchanged ideas.",
+    "topic": "business"
+  },
+  {
+    "word": "expand",
+    "meaning": "mở rộng",
+    "example": "The company expanded overseas.",
+    "topic": "business"
+  },
+  {
+    "word": "expense",
+    "meaning": "chi phí",
+    "example": "Travel expenses increased.",
+    "topic": "finance"
+  },
+  {
+    "word": "factory",
+    "meaning": "nhà máy",
+    "example": "The factory produces cars.",
+    "topic": "industry"
+  },
+  {
+    "word": "feature",
+    "meaning": "tính năng",
+    "example": "This phone has many features.",
+    "topic": "technology"
+  },
+  {
+    "word": "finance",
+    "meaning": "tài chính",
+    "example": "He works in finance.",
+    "topic": "finance"
+  },
+  {
+    "word": "frequently",
+    "meaning": "thường xuyên",
+    "example": "She travels frequently.",
+    "topic": "general"
+  },
+  {
+    "word": "goal",
+    "meaning": "mục tiêu",
+    "example": "Our goal is customer satisfaction.",
+    "topic": "general"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "bảo đảm",
+    "example": "The product has a guarantee.",
+    "topic": "business"
+  },
+  {
+    "word": "improve",
+    "meaning": "cải thiện",
+    "example": "We need to improve quality.",
+    "topic": "general"
+  },
+  {
+    "word": "increase",
+    "meaning": "tăng lên",
+    "example": "Prices increased rapidly.",
+    "topic": "finance"
+  },
+  {
+    "word": "industry",
+    "meaning": "ngành công nghiệp",
+    "example": "Technology industry grows fast.",
+    "topic": "industry"
+  },
+  {
+    "word": "invoice",
+    "meaning": "hóa đơn",
+    "example": "The invoice was emailed.",
+    "topic": "finance"
+  },
+  {
+    "word": "launch",
+    "meaning": "ra mắt",
+    "example": "They launched a new product.",
+    "topic": "marketing"
+  },
+  {
+    "word": "maintain",
+    "meaning": "duy trì",
+    "example": "Maintain the equipment regularly.",
+    "topic": "technology"
+  },
+  {
+    "word": "manage",
+    "meaning": "quản lý",
+    "example": "She manages the team.",
+    "topic": "office"
+  },
+  {
+    "word": "manager",
+    "meaning": "quản lý",
+    "example": "The manager approved the request.",
+    "topic": "office"
+  },
+  {
+    "word": "meeting",
+    "meaning": "cuộc họp",
+    "example": "The meeting starts at 9.",
+    "topic": "office"
+  },
+  {
+    "word": "member",
+    "meaning": "thành viên",
+    "example": "Each member has responsibilities.",
+    "topic": "general"
+  },
+  {
+    "word": "negotiate",
+    "meaning": "đàm phán",
+    "example": "They negotiated the contract.",
+    "topic": "business"
+  },
+  {
+    "word": "notice",
+    "meaning": "thông báo",
+    "example": "Did you read the notice?",
+    "topic": "office"
+  },
+  {
+    "word": "offer",
+    "meaning": "đề nghị",
+    "example": "They offered a discount.",
+    "topic": "business"
+  },
+  {
+    "word": "operate",
+    "meaning": "vận hành",
+    "example": "He operates the machine.",
+    "topic": "industry"
+  },
+  {
+    "word": "opportunity",
+    "meaning": "cơ hội",
+    "example": "This is a great opportunity.",
+    "topic": "general"
+  },
+  {
+    "word": "order",
+    "meaning": "đơn hàng",
+    "example": "Your order will arrive tomorrow.",
+    "topic": "shopping"
+  },
+  {
+    "word": "organization",
+    "meaning": "tổ chức",
+    "example": "The organization supports students.",
+    "topic": "business"
+  },
+  {
+    "word": "participate",
+    "meaning": "tham gia",
+    "example": "Many employees participated.",
+    "topic": "general"
+  },
+  {
+    "word": "payment",
+    "meaning": "thanh toán",
+    "example": "Payment must be completed today.",
+    "topic": "finance"
+  },
+  {
+    "word": "performance",
+    "meaning": "hiệu suất",
+    "example": "Her performance improved.",
+    "topic": "office"
+  },
+  {
+    "word": "policy",
+    "meaning": "chính sách",
+    "example": "The company changed its policy.",
+    "topic": "business"
+  },
+  {
+    "word": "popular",
+    "meaning": "phổ biến",
+    "example": "This product is popular.",
+    "topic": "marketing"
+  },
+  {
+    "word": "position",
+    "meaning": "vị trí",
+    "example": "She applied for the position.",
+    "topic": "office"
+  },
+  {
+    "word": "prepare",
+    "meaning": "chuẩn bị",
+    "example": "Prepare the presentation.",
+    "topic": "office"
+  },
+  {
+    "word": "presentation",
+    "meaning": "bài thuyết trình",
+    "example": "His presentation was excellent.",
+    "topic": "office"
+  },
+  {
+    "word": "price",
+    "meaning": "giá cả",
+    "example": "The price is reasonable.",
+    "topic": "shopping"
+  },
+  {
+    "word": "product",
+    "meaning": "sản phẩm",
+    "example": "The product sold well.",
+    "topic": "business"
+  },
+  {
+    "word": "profit",
+    "meaning": "lợi nhuận",
+    "example": "Profits increased this year.",
+    "topic": "finance"
+  },
+  {
+    "word": "project",
+    "meaning": "dự án",
+    "example": "The project is almost complete.",
+    "topic": "office"
+  },
+  {
+    "word": "promotion",
+    "meaning": "khuyến mãi",
+    "example": "The promotion ends tomorrow.",
+    "topic": "marketing"
+  },
+  {
+    "word": "purchase",
+    "meaning": "mua hàng",
+    "example": "She purchased a laptop.",
+    "topic": "shopping"
+  },
+  {
+    "word": "quality",
+    "meaning": "chất lượng",
+    "example": "Quality is important.",
+    "topic": "business"
+  },
+  {
+    "word": "receive",
+    "meaning": "nhận được",
+    "example": "I received your email.",
+    "topic": "office"
+  },
+  {
+    "word": "recommend",
+    "meaning": "đề xuất",
+    "example": "I recommend this restaurant.",
+    "topic": "general"
+  },
+  {
+    "word": "reduce",
+    "meaning": "giảm bớt",
+    "example": "We reduced expenses.",
+    "topic": "finance"
+  },
+  {
+    "word": "refund",
+    "meaning": "hoàn tiền",
+    "example": "Customers requested refunds.",
+    "topic": "customer_service"
+  },
+  {
+    "word": "register",
+    "meaning": "đăng ký",
+    "example": "Please register online.",
+    "topic": "general"
+  },
+  {
+    "word": "repair",
+    "meaning": "sửa chữa",
+    "example": "He repaired the machine.",
+    "topic": "industry"
+  },
+  {
+    "word": "report",
+    "meaning": "báo cáo",
+    "example": "Submit the report today.",
+    "topic": "office"
+  },
+  {
+    "word": "request",
+    "meaning": "yêu cầu",
+    "example": "The customer made a request.",
+    "topic": "customer_service"
+  },
+  {
+    "word": "reservation",
+    "meaning": "đặt chỗ",
+    "example": "I made a hotel reservation.",
+    "topic": "travel"
+  },
+  {
+    "word": "resource",
+    "meaning": "nguồn lực",
+    "example": "Human resources hired new staff.",
+    "topic": "office"
+  },
+  {
+    "word": "responsibility",
+    "meaning": "trách nhiệm",
+    "example": "Managers have many responsibilities.",
+    "topic": "office"
+  },
+  {
+    "word": "result",
+    "meaning": "kết quả",
+    "example": "The results were impressive.",
+    "topic": "general"
+  },
+  {
+    "word": "retail",
+    "meaning": "bán lẻ",
+    "example": "He works in retail.",
+    "topic": "shopping"
+  },
+  {
+    "word": "review",
+    "meaning": "đánh giá",
+    "example": "Customers wrote positive reviews.",
+    "topic": "customer_service"
+  },
+  {
+    "word": "salary",
+    "meaning": "lương",
+    "example": "Employees expect higher salaries.",
+    "topic": "finance"
+  },
+  {
+    "word": "schedule",
+    "meaning": "lịch trình",
+    "example": "The schedule changed suddenly.",
+    "topic": "office"
+  },
+  {
+    "word": "shipment",
+    "meaning": "lô hàng",
+    "example": "The shipment arrived safely.",
+    "topic": "business"
+  },
+  {
+    "word": "solution",
+    "meaning": "giải pháp",
+    "example": "We found a solution.",
+    "topic": "general"
+  },
+  {
+    "word": "strategy",
+    "meaning": "chiến lược",
+    "example": "The strategy was successful.",
+    "topic": "business"
+  },
+  {
+    "word": "submit",
+    "meaning": "nộp",
+    "example": "Submit your application online.",
+    "topic": "office"
+  },
+  {
+    "word": "supply",
+    "meaning": "nguồn cung",
+    "example": "Office supplies are missing.",
+    "topic": "office"
+  },
+  {
+    "word": "support",
+    "meaning": "hỗ trợ",
+    "example": "Technical support is available.",
+    "topic": "technology"
+  },
+  {
+    "word": "survey",
+    "meaning": "khảo sát",
+    "example": "Customers completed the survey.",
+    "topic": "marketing"
+  },
+  {
+    "word": "temporary",
+    "meaning": "tạm thời",
+    "example": "This job is temporary.",
+    "topic": "office"
+  },
+  {
+    "word": "transportation",
+    "meaning": "vận chuyển",
+    "example": "Transportation costs increased.",
+    "topic": "travel"
+  },
+  {
+    "word": "update",
+    "meaning": "cập nhật",
+    "example": "Please update the software.",
+    "topic": "technology"
+  }
+]
