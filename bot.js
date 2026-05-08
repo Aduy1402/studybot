@@ -709,4 +709,23 @@ process.on('uncaughtException', error => {
   console.error('Uncaught exception:', error);
 });
 
+// DISCORD DEBUG
+client.on('disconnect', () => {
+  console.log('Bot disconnected!');
+});
+
+client.on('reconnecting', () => {
+  console.log('Bot reconnecting...');
+});
+
+client.on('error', error => {
+  console.error('Discord error:', error);
+});
+
+client.once('clientReady', () => {
+  console.log(`Logged in as ${client.user.tag}`);
+});
+
+client.login(TOKEN);
+
 client.login(TOKEN);
